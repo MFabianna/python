@@ -1,0 +1,4 @@
+
+P = input("Entrez une phrase : ")
+mots = P.split()
+print("Nombre de mots :", len(mots))
